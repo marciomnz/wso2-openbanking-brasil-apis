@@ -18,14 +18,26 @@ Siga este [procedimento](https://apim.docs.wso2.com/en/3.1.0/learn/api-controlle
 ### Importando as APIs
 
 ``` 
-apictl import-api -e local -f products-services-apis-ob-brasil/ -k
+apictl import-api -e <AMBIENTE> -f admin-apis-ob-brasil/ -k
 
 Output:
 Successfully imported API
 ``` 
 
 ``` 
-apictl import-api -e local -f products-services-apis-ob-brasil/ -k
+apictl import-api -e <AMBIENTE> -f channels-apis-ob-brasil/ -k
+
+Output:
+Successfully imported API
+``` 
+``` 
+apictl import-api -e <AMBIENTE> -f commons-apis-ob-brasil/ -k
+
+Output:
+Successfully imported API
+``` 
+``` 
+apictl import-api -e <AMBIENTE> -f products-services-apis-ob-brasil/ -k
 
 Output:
 Successfully imported API

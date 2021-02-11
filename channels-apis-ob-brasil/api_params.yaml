@@ -1,0 +1,9 @@
+environments:
+  - name: k8s-p1
+    endpoints:
+      production:
+      sandbox:
+  - name: local
+    endpoints:
+      production:
+      sandbox:

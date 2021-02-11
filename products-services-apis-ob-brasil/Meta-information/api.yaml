@@ -1,0 +1,14 @@
+id:
+  providerName: admin
+  apiName: ProdutosServicos-OpenBankingBrasil
+  version: 1.0.0-rc5.2
+type: HTTP
+context: "/open-banking/products-services/v1"
+tags: [Accounts, Loans, Credit Cards, Financings, Invoice Financings, Unarranged Account Overdraft]
+availableTiers:
+- name: Unlimited
+status: CREATED
+visibility: public
+transports: http,https
+productionUrl: 'https://<YOUR_INTERNAL_SYSTEM>'
+sandboxUrl: https://<YOUR_INTERNAL_SYSTEM>

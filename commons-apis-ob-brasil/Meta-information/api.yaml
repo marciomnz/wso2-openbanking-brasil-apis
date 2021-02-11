@@ -1,0 +1,14 @@
+id:
+  providerName: admin
+  apiName: Comuns-OpenBankingBrasil
+  version: 1.0.0-rc5.2
+type: HTTP
+context: "/open-banking/discovery/v1"
+tags: [Discovery]
+availableTiers:
+- name: Unlimited
+status: CREATED
+visibility: public
+transports: http,https
+productionUrl: 'https://<YOUR_INTERNAL_SYSTEM>'
+sandboxUrl: https://<YOUR_INTERNAL_SYSTEM>

@@ -42,5 +42,12 @@ apictl import-api -e <AMBIENTE> -f products-services-apis-ob-brasil/ -k
 Output:
 Successfully imported API
 ``` 
+
+### Visualizando as APIs criadas na console administrativa
+![Visualizando as APIs](docs/images/created_apis_screen.png "Visualizando as APIs")
+
+
+### Realize os ajustes nos endpoints para o correto roteamento das APIs
+![Ajustando os Endpoints](docs/images/endpoints_management.png "Ajustando os Endpoints")
   
   

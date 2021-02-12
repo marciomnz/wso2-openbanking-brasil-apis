@@ -45,7 +45,7 @@ Successfully imported API
 ``` 
 
 
-### 3) Reailze o Login na console administrativa
+### 3) Realize o Login na console administrativa
 ![Login](docs/images/login_screen.png "Login")
 
 

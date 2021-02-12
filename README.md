@@ -12,7 +12,7 @@ Ferramenta de apoio ao desenvolvedor para a importação de APIs através de lin
 
 Siga este [procedimento](https://apim.docs.wso2.com/en/3.1.0/learn/api-controller/getting-started-with-wso2-api-controller/#check-the-version-of-the-ctl) para realizar a instalação e a configuaração da CLI apictl 3.1.
 
-**Note:** O procedimento assumirá que já existe um ambiente do WSO2 API Manager instalado e em execução.
+**Note:** O procedimento assumirá que já existe um ambiente do WSO2 Open Banking instalada e em execução.
 
 
 

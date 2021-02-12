@@ -5,7 +5,7 @@ Todas as definições de APIs foram obtidas do portal oficial do open banking br
 Saiba mais sobre a plataforma WSO2 Open Banking em: https://openbanking.wso2.com/
 
 ---------
-## Passo-a-Passo
+## Passo a Passo
 
 ### 1) Instalação da CLI apictl
 Ferramenta de apoio ao desenvolvedor para a importação de APIs através de linha de comando.
